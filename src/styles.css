@@ -1,0 +1,14 @@
+.main {
+  text-align: center;
+  background-color: chocolate;
+}
+button {
+  color: black;
+  background-color: blue;
+}
+input:hover {
+  background-color: palevioletred;
+}
+button:hover {
+  background-color: chartreuse;
+}

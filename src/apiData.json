@@ -1,0 +1,1187 @@
+{
+  "total": 8262,
+  "results": [
+    {
+      "package": {
+        "name": "reactjs",
+        "scope": "unscoped",
+        "version": "1.0.0",
+        "date": "2016-10-12T08:11:08.336Z",
+        "links": { "npm": "https://www.npmjs.com/package/reactjs" },
+        "publisher": {
+          "username": "minaseem",
+          "email": "naseem1992@gmail.com"
+        },
+        "maintainers": [
+          { "username": "minaseem", "email": "naseem1992@gmail.com" }
+        ]
+      },
+      "score": {
+        "final": 0.24743639217714183,
+        "detail": {
+          "quality": 0.40086796360358884,
+          "popularity": 0.03080411519692293,
+          "maintenance": 0.33255589364897764
+        }
+      },
+      "searchScore": 100000.21
+    },
+    {
+      "package": {
+        "name": "react-redux",
+        "scope": "unscoped",
+        "version": "8.0.2",
+        "description": "Official React bindings for Redux",
+        "keywords": ["react", "reactjs", "redux"],
+        "date": "2022-05-22T19:19:53.180Z",
+        "links": {
+          "npm": "https://www.npmjs.com/package/react-redux",
+          "homepage": "https://github.com/reduxjs/react-redux",
+          "repository": "https://github.com/reduxjs/react-redux",
+          "bugs": "https://github.com/reduxjs/react-redux/issues"
+        },
+        "author": {
+          "name": "Dan Abramov",
+          "email": "dan.abramov@me.com",
+          "url": "https://github.com/gaearon"
+        },
+        "publisher": {
+          "username": "acemarke",
+          "email": "mark.erikson@gmail.com"
+        },
+        "maintainers": [
+          { "username": "gaearon", "email": "dan.abramov@gmail.com" },
+          { "username": "timdorr", "email": "timdorr@timdorr.com" },
+          { "username": "acemarke", "email": "mark.erikson@gmail.com" }
+        ]
+      },
+      "score": {
+        "final": 0.9027866842091126,
+        "detail": {
+          "quality": 0.9417999945200225,
+          "popularity": 0.772172105285907,
+          "maintenance": 0.999961282865824
+        }
+      },
+      "searchScore": 22.531311
+    },
+    {
+      "package": {
+        "name": "react-i18next",
+        "scope": "unscoped",
+        "version": "11.17.2",
+        "description": "Internationalization for react done right. Using the i18next i18n ecosystem.",
+        "keywords": [
+          "i18next",
+          "internationalization",
+          "i18n",
+          "translation",
+          "localization",
+          "l10n",
+          "globalization",
+          "react",
+          "reactjs"
+        ],
+        "date": "2022-06-14T18:28:14.859Z",
+        "links": {
+          "npm": "https://www.npmjs.com/package/react-i18next",
+          "homepage": "https://github.com/i18next/react-i18next",
+          "repository": "https://github.com/i18next/react-i18next",
+          "bugs": "https://github.com/i18next/react-i18next/issues"
+        },
+        "author": {
+          "name": "Jan Mühlemann",
+          "email": "jan.muehlemann@gmail.com",
+          "url": "https://github.com/jamuhl",
+          "username": "jamuhl"
+        },
+        "publisher": { "username": "adrai", "email": "adriano@raiano.ch" },
+        "maintainers": [
+          { "username": "adrai", "email": "adriano@raiano.ch" },
+          { "username": "jamuhl", "email": "jan.muehlemann@gmail.com" }
+        ]
+      },
+      "score": {
+        "final": 0.8605943699067133,
+        "detail": {
+          "quality": 0.98922446444846,
+          "popularity": 0.6109343970158642,
+          "maintenance": 0.9999999760474945
+        }
+      },
+      "searchScore": 6.144529
+    },
+    {
+      "package": {
+        "name": "mobx-react-lite",
+        "scope": "unscoped",
+        "version": "3.4.0",
+        "description": "Lightweight React bindings for MobX based on React 16.8+ and Hooks",
+        "keywords": [
+          "mobx",
+          "mobservable",
+          "react-component",
+          "react",
+          "reactjs",
+          "reactive",
+          "hooks",
+          "observer",
+          "useLocalObservable"
+        ],
+        "date": "2022-05-06T09:20:17.445Z",
+        "links": {
+          "npm": "https://www.npmjs.com/package/mobx-react-lite",
+          "homepage": "https://mobx.js.org",
+          "repository": "https://github.com/mobxjs/mobx",
+          "bugs": "https://github.com/mobxjs/mobx/issues"
+        },
+        "author": { "name": "Daniel K." },
+        "publisher": {
+          "username": "mweststrate",
+          "email": "mweststrate@gmail.com"
+        },
+        "maintainers": [
+          { "username": "fredyc", "email": "fredy.c@seznam.cz" },
+          { "username": "mweststrate", "email": "mweststrate@gmail.com" }
+        ]
+      },
+      "score": {
+        "final": 0.8598036033888032,
+        "detail": {
+          "quality": 0.9662734241212225,
+          "popularity": 0.6284286411728609,
+          "maintenance": 0.9999187192626722
+        }
+      },
+      "searchScore": 6.0034776
+    },
+    {
+      "package": {
+        "name": "mobx-react",
+        "scope": "unscoped",
+        "version": "7.5.0",
+        "description": "React bindings for MobX. Create fully reactive components.",
+        "keywords": [
+          "mobx",
+          "mobservable",
+          "react-component",
+          "react",
+          "reactjs",
+          "reactive"
+        ],
+        "date": "2022-05-23T11:13:54.415Z",
+        "links": {
+          "npm": "https://www.npmjs.com/package/mobx-react",
+          "homepage": "https://mobx.js.org",
+          "repository": "https://github.com/mobxjs/mobx",
+          "bugs": "https://github.com/mobxjs/mobx/issues"
+        },
+        "author": { "name": "Michel Weststrate" },
+        "publisher": {
+          "username": "mweststrate",
+          "email": "mweststrate@gmail.com"
+        },
+        "maintainers": [
+          { "username": "fredyc", "email": "fredy.c@seznam.cz" },
+          { "username": "mweststrate", "email": "mweststrate@gmail.com" },
+          { "username": "eshenbrener", "email": "strate@yandex.ru" },
+          { "username": "andykog", "email": "mail@andykog.com" }
+        ]
+      },
+      "score": {
+        "final": 0.8494387702543165,
+        "detail": {
+          "quality": 0.9649665614685345,
+          "popularity": 0.599936386746023,
+          "maintenance": 0.9999173327218518
+        }
+      },
+      "searchScore": 5.668398
+    },
+    {
+      "package": {
+        "name": "mobx",
+        "scope": "unscoped",
+        "version": "6.6.0",
+        "description": "Simple, scalable state management.",
+        "keywords": [
+          "mobx",
+          "mobservable",
+          "observable",
+          "react-component",
+          "react",
+          "reactjs",
+          "reactive",
+          "model",
+          "frp",
+          "functional-reactive-programming",
+          "state management",
+          "data flow"
+        ],
+        "date": "2022-05-23T11:14:22.431Z",
+        "links": {
+          "npm": "https://www.npmjs.com/package/mobx",
+          "homepage": "https://mobx.js.org/",
+          "repository": "https://github.com/mobxjs/mobx",
+          "bugs": "https://github.com/mobxjs/mobx/issues"
+        },
+        "author": { "name": "Michel Weststrate" },
+        "publisher": {
+          "username": "mweststrate",
+          "email": "mweststrate@gmail.com"
+        },
+        "maintainers": [
+          { "username": "fredyc", "email": "fredy.c@seznam.cz" },
+          { "username": "mweststrate", "email": "mweststrate@gmail.com" },
+          { "username": "capaj", "email": "capajj@gmail.com" },
+          { "username": "jilles", "email": "login@jilles.me" },
+          { "username": "andykog", "email": "mail@andykog.com" },
+          { "username": "xaviergonz", "email": "xaviergonz@gmail.com" }
+        ]
+      },
+      "score": {
+        "final": 0.8396723202567046,
+        "detail": {
+          "quality": 0.9103173752658775,
+          "popularity": 0.6188744034979806,
+          "maintenance": 0.9999173327218518
+        }
+      },
+      "searchScore": 3.5238461
+    },
+    {
+      "package": {
+        "name": "react-intl",
+        "scope": "unscoped",
+        "version": "6.0.4",
+        "description": "Internationalize React apps. This library provides React components and an API to format dates, numbers, and strings, including pluralization and handling translations.",
+        "keywords": [
+          "intl",
+          "i18n",
+          "internationalization",
+          "locale",
+          "localization",
+          "globalization",
+          "react",
+          "reactjs",
+          "format",
+          "formatting",
+          "translate",
+          "translation"
+        ],
+        "date": "2022-06-06T02:51:25.848Z",
+        "links": {
+          "npm": "https://www.npmjs.com/package/react-intl",
+          "homepage": "https://formatjs.io/docs/react-intl",
+          "repository": "https://github.com/formatjs/formatjs",
+          "bugs": "https://github.com/formatjs/formatjs/issues"
+        },
+        "author": { "name": "Eric Ferraiuolo", "email": "edf@ericf.me" },
+        "publisher": {
+          "username": "longlho",
+          "email": "holevietlong@gmail.com"
+        },
+        "maintainers": [
+          { "username": "longlho", "email": "holevietlong@gmail.com" },
+          { "username": "redonkulus", "email": "seth@bertalotto.net" },
+          { "username": "pyrocat", "email": "dinglinjie+npm@gmail.com" },
+          { "username": "caridy", "email": "caridy@gmail.com" },
+          { "username": "juandopazo", "email": "juan@dopazo.me" },
+          { "username": "clarle", "email": "contact@clarle.com" },
+          { "username": "okuryu", "email": "okuryu@okuryu.com" },
+          { "username": "ericf", "email": "eferraiuolo@gmail.com" }
+        ]
+      },
+      "score": {
+        "final": 0.820637797133607,
+        "detail": {
+          "quality": 0.9027793038310707,
+          "popularity": 0.574733745806996,
+          "maintenance": 0.996134842719535
+        }
+      },
+      "searchScore": 2.8002288
+    },
+    {
+      "package": {
+        "name": "react-select",
+        "scope": "unscoped",
+        "version": "5.3.2",
+        "description": "A Select control built with and for ReactJS",
+        "keywords": [
+          "combobox",
+          "form",
+          "input",
+          "multiselect",
+          "react",
+          "react-component",
+          "select",
+          "ui"
+        ],
+        "date": "2022-05-08T16:55:32.567Z",
+        "links": {
+          "npm": "https://www.npmjs.com/package/react-select",
+          "homepage": "https://github.com/JedWatson/react-select#readme",
+          "repository": "https://github.com/JedWatson/react-select",
+          "bugs": "https://github.com/JedWatson/react-select/issues"
+        },
+        "author": { "name": "Jed Watson" },
+        "publisher": {
+          "username": "react-select-release-bot",
+          "email": "automation+react-select@thinkmill.com.au"
+        },
+        "maintainers": [
+          { "username": "jedwatson", "email": "jed.watson@me.com" },
+          { "username": "brianvaughn", "email": "briandavidvaughn@gmail.com" },
+          { "username": "gwyneplaine", "email": "cc.lee@live.com.au" },
+          { "username": "mitchellhamilton", "email": "mitchell@hamil.town" },
+          {
+            "username": "react-select-release-bot",
+            "email": "automation+react-select@thinkmill.com.au"
+          }
+        ]
+      },
+      "score": {
+        "final": 0.7785238802028196,
+        "detail": {
+          "quality": 0.9455531801608353,
+          "popularity": 0.7472560476955338,
+          "maintenance": 0.6666237413175208
+        }
+      },
+      "searchScore": 2.0285635
+    },
+    {
+      "package": {
+        "name": "react-native-elements",
+        "scope": "unscoped",
+        "version": "3.4.2",
+        "description": "React Native Elements & UI Toolkit",
+        "keywords": ["react-native", "reactjs", "reactnative", "bootstrap"],
+        "date": "2021-06-09T03:57:52.290Z",
+        "links": {
+          "npm": "https://www.npmjs.com/package/react-native-elements",
+          "homepage": "https://reactnativeelements.com/",
+          "repository": "https://github.com/react-native-elements/react-native-elements",
+          "bugs": "https://github.com/react-native-elements/react-native-elements/issues"
+        },
+        "author": { "name": "Nader Dabit & Monte Thakkar" },
+        "publisher": {
+          "username": "flyingcircle",
+          "email": "jeremyelijah@live.com"
+        },
+        "maintainers": [
+          { "username": "arpitbhalla", "email": "arpitbhalla2001@gmail.com" },
+          { "username": "dabit3", "email": "dabit3@gmail.com" },
+          { "username": "flyingcircle", "email": "jeremyelijah@live.com" },
+          { "username": "iroachie", "email": "kroach.work@gmail.com" },
+          { "username": "monte9", "email": "manthan.thakkar@gmail.com" }
+        ]
+      },
+      "score": {
+        "final": 0.768889556509343,
+        "detail": {
+          "quality": 0.8731731332665575,
+          "popularity": 0.4490078682018571,
+          "maintenance": 0.9993853218820739
+        }
+      },
+      "searchScore": 1.2334377
+    },
+    {
+      "package": {
+        "name": "recharts",
+        "scope": "unscoped",
+        "version": "2.1.10",
+        "description": "React charts",
+        "keywords": ["react", "reactjs", "chart", "react-component"],
+        "date": "2022-05-19T14:32:50.956Z",
+        "links": {
+          "npm": "https://www.npmjs.com/package/recharts",
+          "homepage": "https://github.com/recharts/recharts",
+          "repository": "https://github.com/recharts/recharts",
+          "bugs": "https://github.com/recharts/recharts/issues"
+        },
+        "author": { "name": "recharts group" },
+        "publisher": {
+          "username": "arcthur",
+          "email": "arthurtemptation@gmail.com"
+        },
+        "maintainers": [
+          { "username": "arcthur", "email": "arthurtemptation@gmail.com" },
+          { "username": "xile611", "email": "327197681@qq.com" },
+          { "username": "evilucifero", "email": "himayue@hotmail.com" }
+        ]
+      },
+      "score": {
+        "final": 0.7217900023744209,
+        "detail": {
+          "quality": 0.9020018675508822,
+          "popularity": 0.6225662119085023,
+          "maintenance": 0.6665464798319443
+        }
+      },
+      "searchScore": 1.0247562
+    },
+    {
+      "package": {
+        "name": "react-image-crop",
+        "scope": "unscoped",
+        "version": "10.0.4",
+        "description": "A responsive image cropping tool for React",
+        "keywords": ["react", "reactjs", "image", "crop", "react-component"],
+        "date": "2022-06-14T10:06:37.023Z",
+        "links": {
+          "npm": "https://www.npmjs.com/package/react-image-crop",
+          "homepage": "https://github.com/DominicTobias/react-image-crop#readme",
+          "repository": "https://github.com/DominicTobias/react-image-crop",
+          "bugs": "https://github.com/DominicTobias/react-image-crop/issues"
+        },
+        "author": {
+          "name": "Dominic Tobias",
+          "url": "https://github.com/DominicTobias/"
+        },
+        "publisher": {
+          "username": "ferahl",
+          "email": "dominic.tobias@gmail.com"
+        },
+        "maintainers": [
+          { "username": "ferahl", "email": "dominic.tobias@gmail.com" }
+        ]
+      },
+      "score": {
+        "final": 0.7606297286497665,
+        "detail": {
+          "quality": 0.8642290948449108,
+          "popularity": 0.4354193185874936,
+          "maintenance": 0.9970406819733444
+        }
+      },
+      "searchScore": 0.9811969
+    },
+    {
+      "package": {
+        "name": "ag-charts-community",
+        "scope": "unscoped",
+        "version": "5.3.0",
+        "description": "Advanced Charting / Charts supporting Javascript / Typescript / React / Angular / Vue",
+        "keywords": [
+          "chart",
+          "charts",
+          "data",
+          "angular",
+          "angular-component",
+          "react",
+          "react-component",
+          "reactjs",
+          "vue",
+          "vuejs"
+        ],
+        "date": "2022-05-17T07:22:24.952Z",
+        "links": {
+          "npm": "https://www.npmjs.com/package/ag-charts-community",
+          "homepage": "https://www.ag-grid.com/",
+          "repository": "https://github.com/ag-grid/ag-grid",
+          "bugs": "https://github.com/ag-grid/ag-grid/issues"
+        },
+        "author": {
+          "name": "Sean Landsman",
+          "email": "sean@thelandsmans.com",
+          "username": "seanlandsman"
+        },
+        "publisher": {
+          "username": "seanlandsman",
+          "email": "sean@thelandsmans.com"
+        },
+        "maintainers": [
+          { "username": "seanlandsman", "email": "sean@thelandsmans.com" }
+        ]
+      },
+      "score": {
+        "final": 0.7774048987674433,
+        "detail": {
+          "quality": 0.936286660817264,
+          "popularity": 0.42298977511205055,
+          "maintenance": 0.9956356549515615
+        }
+      },
+      "searchScore": 0.963295
+    },
+    {
+      "package": {
+        "name": "ag-grid-community",
+        "scope": "unscoped",
+        "version": "27.3.0",
+        "description": "Advanced Data Grid / Data Table supporting Javascript / Typescript / React / Angular / Vue",
+        "keywords": [
+          "ag",
+          "ag-grid",
+          "datagrid",
+          "data-grid",
+          "datatable",
+          "data-table",
+          "grid",
+          "table",
+          "react",
+          "table",
+          "angular",
+          "angular-component",
+          "react",
+          "react-component",
+          "reactjs",
+          "vue",
+          "vuejs"
+        ],
+        "date": "2022-05-17T07:24:44.126Z",
+        "links": {
+          "npm": "https://www.npmjs.com/package/ag-grid-community",
+          "homepage": "https://www.ag-grid.com/",
+          "repository": "https://github.com/ag-grid/ag-grid",
+          "bugs": "https://github.com/ag-grid/ag-grid/issues"
+        },
+        "author": {
+          "name": "Niall Crosby",
+          "email": "niall.crosby@ag-grid.com"
+        },
+        "publisher": {
+          "username": "seanlandsman",
+          "email": "sean@thelandsmans.com"
+        },
+        "maintainers": [
+          { "username": "ceolter", "email": "niall.crosby@gmail.com" },
+          { "username": "seanlandsman", "email": "sean@thelandsmans.com" },
+          {
+            "username": "alberto.gutierrez",
+            "email": "alberto.gutierrez.campo@gmail.com"
+          },
+          {
+            "username": "rmc.software",
+            "email": "rmc.software.consultancy@gmail.com"
+          }
+        ]
+      },
+      "score": {
+        "final": 0.7818739873619089,
+        "detail": {
+          "quality": 0.8658270993974506,
+          "popularity": 0.4961377410548999,
+          "maintenance": 0.9956504233527397
+        }
+      },
+      "searchScore": 0.9404618
+    },
+    {
+      "package": {
+        "name": "@ag-grid-community/core",
+        "scope": "ag-grid-community",
+        "version": "27.3.0",
+        "description": "Advanced Data Grid / Data Table supporting Javascript / Typescript / React / Angular / Vue",
+        "keywords": [
+          "ag",
+          "ag-grid",
+          "datagrid",
+          "data-grid",
+          "datatable",
+          "data-table",
+          "grid",
+          "table",
+          "react",
+          "table",
+          "angular",
+          "angular-component",
+          "react",
+          "react-component",
+          "reactjs",
+          "vue",
+          "vuejs"
+        ],
+        "date": "2022-05-17T07:18:49.151Z",
+        "links": {
+          "npm": "https://www.npmjs.com/package/%40ag-grid-community%2Fcore",
+          "homepage": "https://www.ag-grid.com/",
+          "repository": "https://github.com/ag-grid/ag-grid",
+          "bugs": "https://github.com/ag-grid/ag-grid/issues"
+        },
+        "author": {
+          "name": "Sean Landsman",
+          "email": "sean@thelandsmans.com",
+          "username": "seanlandsman"
+        },
+        "publisher": {
+          "username": "seanlandsman",
+          "email": "sean@thelandsmans.com"
+        },
+        "maintainers": [
+          { "username": "ceolter", "email": "niall.crosby@gmail.com" },
+          { "username": "seanlandsman", "email": "sean@thelandsmans.com" },
+          {
+            "username": "rmc.software",
+            "email": "rmc.software.consultancy@gmail.com"
+          }
+        ]
+      },
+      "score": {
+        "final": 0.7867675655894762,
+        "detail": {
+          "quality": 0.9341821839878668,
+          "popularity": 0.4515286255933011,
+          "maintenance": 0.9956511183870311
+        }
+      },
+      "searchScore": 0.90031934
+    },
+    {
+      "package": {
+        "name": "react-virtualized",
+        "scope": "unscoped",
+        "version": "9.22.3",
+        "description": "React components for efficiently rendering large, scrollable lists and tabular data",
+        "keywords": [
+          "react",
+          "reactjs",
+          "react-component",
+          "virtual",
+          "list",
+          "scrolling",
+          "infinite",
+          "virtualized",
+          "table",
+          "fixed",
+          "header",
+          "flex",
+          "flexbox",
+          "grid",
+          "spreadsheet"
+        ],
+        "date": "2020-12-18T22:16:25.269Z",
+        "links": {
+          "npm": "https://www.npmjs.com/package/react-virtualized",
+          "homepage": "https://github.com/bvaughn/react-virtualized",
+          "repository": "https://github.com/bvaughn/react-virtualized",
+          "bugs": "https://github.com/bvaughn/react-virtualized/issues"
+        },
+        "author": {
+          "name": "Brian Vaughn",
+          "email": "brian.david.vaughn@gmail.com"
+        },
+        "publisher": { "username": "shhnjk", "email": "shhnjk@gmail.com" },
+        "maintainers": [
+          { "username": "trysound", "email": "trysound@yandex.ru" },
+          { "username": "brianvaughn", "email": "briandavidvaughn@gmail.com" },
+          { "username": "wuweiweiwu", "email": "me@weiweiwu.me" },
+          { "username": "shhnjk", "email": "shhnjk@gmail.com" }
+        ]
+      },
+      "score": {
+        "final": 0.7346665738018807,
+        "detail": {
+          "quality": 0.9800540897428969,
+          "popularity": 0.6517366130013889,
+          "maintenance": 0.6072643780815016
+        }
+      },
+      "searchScore": 0.8754845
+    },
+    {
+      "package": {
+        "name": "@ag-grid-enterprise/core",
+        "scope": "ag-grid-enterprise",
+        "version": "27.3.0",
+        "description": "Advanced Data Grid / Data Table supporting Javascript / Typescript / React / Angular / Vue",
+        "keywords": [
+          "web-components",
+          "grid",
+          "data",
+          "table",
+          "angular",
+          "angular-component",
+          "react",
+          "react-component",
+          "reactjs",
+          "vue",
+          "vuejs"
+        ],
+        "date": "2022-05-17T07:20:18.129Z",
+        "links": {
+          "npm": "https://www.npmjs.com/package/%40ag-grid-enterprise%2Fcore",
+          "homepage": "https://www.ag-grid.com/",
+          "repository": "https://github.com/ag-grid/ag-grid",
+          "bugs": "https://github.com/ag-grid/ag-grid/issues"
+        },
+        "author": {
+          "name": "Sean Landsman",
+          "email": "sean@thelandsmans.com",
+          "username": "seanlandsman"
+        },
+        "publisher": {
+          "username": "seanlandsman",
+          "email": "sean@thelandsmans.com"
+        },
+        "maintainers": [
+          { "username": "ceolter", "email": "niall.crosby@gmail.com" },
+          { "username": "seanlandsman", "email": "sean@thelandsmans.com" },
+          {
+            "username": "rmc.software",
+            "email": "rmc.software.consultancy@gmail.com"
+          }
+        ]
+      },
+      "score": {
+        "final": 0.7691409891880556,
+        "detail": {
+          "quality": 0.8851576921125721,
+          "popularity": 0.4432034352035357,
+          "maintenance": 0.9956356549515615
+        }
+      },
+      "searchScore": 0.83743757
+    },
+    {
+      "package": {
+        "name": "remax-redux",
+        "scope": "unscoped",
+        "version": "7.1.1",
+        "description": "Official React bindings for Redux",
+        "keywords": ["react", "reactjs", "redux"],
+        "date": "2019-09-07T17:41:16.807Z",
+        "links": {
+          "npm": "https://www.npmjs.com/package/remax-redux",
+          "homepage": "https://github.com/reduxjs/react-redux",
+          "repository": "https://github.com/reduxjs/react-redux",
+          "bugs": "https://github.com/reduxjs/react-redux/issues"
+        },
+        "author": {
+          "name": "Dan Abramov",
+          "email": "dan.abramov@me.com",
+          "url": "https://github.com/gaearon"
+        },
+        "publisher": { "username": "yesmeck", "email": "yesmeck@gmail.com" },
+        "maintainers": [{ "username": "yesmeck", "email": "yesmeck@gmail.com" }]
+      },
+      "score": {
+        "final": 0.7526515179305964,
+        "detail": {
+          "quality": 0.9364106332119665,
+          "popularity": 0.34884650292035024,
+          "maintenance": 0.9989487198425253
+        }
+      },
+      "searchScore": 0.80191314
+    },
+    {
+      "package": {
+        "name": "@ag-grid-community/client-side-row-model",
+        "scope": "ag-grid-community",
+        "version": "27.3.0",
+        "description": "Advanced Data Grid / Data Table supporting Javascript / Typescript / React / Angular / Vue",
+        "keywords": [
+          "web-components",
+          "grid",
+          "data",
+          "table",
+          "angular",
+          "angular-component",
+          "react",
+          "react-component",
+          "reactjs",
+          "vue",
+          "vuejs"
+        ],
+        "date": "2022-05-17T07:18:35.923Z",
+        "links": {
+          "npm": "https://www.npmjs.com/package/%40ag-grid-community%2Fclient-side-row-model",
+          "homepage": "https://www.ag-grid.com/",
+          "repository": "https://github.com/ag-grid/ag-grid",
+          "bugs": "https://github.com/ag-grid/ag-grid/issues"
+        },
+        "author": {
+          "name": "Sean Landsman",
+          "email": "sean@thelandsmans.com",
+          "username": "seanlandsman"
+        },
+        "publisher": {
+          "username": "seanlandsman",
+          "email": "sean@thelandsmans.com"
+        },
+        "maintainers": [
+          { "username": "ceolter", "email": "niall.crosby@gmail.com" },
+          { "username": "seanlandsman", "email": "sean@thelandsmans.com" },
+          {
+            "username": "rmc.software",
+            "email": "rmc.software.consultancy@gmail.com"
+          }
+        ]
+      },
+      "score": {
+        "final": 0.7664721366043699,
+        "detail": {
+          "quality": 0.8780904360753379,
+          "popularity": 0.44163579013920595,
+          "maintenance": 0.9956356549515615
+        }
+      },
+      "searchScore": 0.79814875
+    },
+    {
+      "package": {
+        "name": "@ag-grid-enterprise/row-grouping",
+        "scope": "ag-grid-enterprise",
+        "version": "27.3.0",
+        "description": "Advanced Data Grid / Data Table supporting Javascript / Typescript / React / Angular / Vue",
+        "keywords": [
+          "web-components",
+          "grid",
+          "data",
+          "table",
+          "angular",
+          "angular-component",
+          "react",
+          "react-component",
+          "reactjs",
+          "vue",
+          "vuejs"
+        ],
+        "date": "2022-05-17T07:20:31.261Z",
+        "links": {
+          "npm": "https://www.npmjs.com/package/%40ag-grid-enterprise%2Frow-grouping",
+          "homepage": "https://www.ag-grid.com/",
+          "repository": "https://github.com/ag-grid/ag-grid",
+          "bugs": "https://github.com/ag-grid/ag-grid/issues"
+        },
+        "author": {
+          "name": "Sean Landsman",
+          "email": "sean@thelandsmans.com",
+          "username": "seanlandsman"
+        },
+        "publisher": {
+          "username": "seanlandsman",
+          "email": "sean@thelandsmans.com"
+        },
+        "maintainers": [
+          { "username": "ceolter", "email": "niall.crosby@gmail.com" },
+          { "username": "seanlandsman", "email": "sean@thelandsmans.com" },
+          {
+            "username": "rmc.software",
+            "email": "rmc.software.consultancy@gmail.com"
+          }
+        ]
+      },
+      "score": {
+        "final": 0.7668020696654477,
+        "detail": {
+          "quality": 0.8851576921125721,
+          "popularity": 0.4365035121835095,
+          "maintenance": 0.9956529507641365
+        }
+      },
+      "searchScore": 0.79100615
+    },
+    {
+      "package": {
+        "name": "@ag-grid-community/csv-export",
+        "scope": "ag-grid-community",
+        "version": "27.3.0",
+        "description": "Advanced Data Grid / Data Table supporting Javascript / Typescript / React / Angular / Vue",
+        "keywords": [
+          "web-components",
+          "grid",
+          "data",
+          "table",
+          "angular",
+          "angular-component",
+          "react",
+          "react-component",
+          "reactjs",
+          "vue",
+          "vuejs"
+        ],
+        "date": "2022-05-17T07:18:51.122Z",
+        "links": {
+          "npm": "https://www.npmjs.com/package/%40ag-grid-community%2Fcsv-export",
+          "homepage": "https://www.ag-grid.com/",
+          "repository": "https://github.com/ag-grid/ag-grid",
+          "bugs": "https://github.com/ag-grid/ag-grid/issues"
+        },
+        "author": {
+          "name": "Sean Landsman",
+          "email": "sean@thelandsmans.com",
+          "username": "seanlandsman"
+        },
+        "publisher": {
+          "username": "seanlandsman",
+          "email": "sean@thelandsmans.com"
+        },
+        "maintainers": [
+          { "username": "ceolter", "email": "niall.crosby@gmail.com" },
+          { "username": "seanlandsman", "email": "sean@thelandsmans.com" },
+          {
+            "username": "rmc.software",
+            "email": "rmc.software.consultancy@gmail.com"
+          }
+        ]
+      },
+      "score": {
+        "final": 0.7659397834063666,
+        "detail": {
+          "quality": 0.8780904360753379,
+          "popularity": 0.44011478100205387,
+          "maintenance": 0.9956356549515615
+        }
+      },
+      "searchScore": 0.7878433
+    },
+    {
+      "package": {
+        "name": "react-virtuoso",
+        "scope": "unscoped",
+        "version": "2.13.3",
+        "description": "<img src=\"https://user-images.githubusercontent.com/13347/101237112-ec4c6000-36de-11eb-936d-4b6b7ec94976.png\" width=\"229\" />",
+        "keywords": [
+          "react",
+          "reactjs",
+          "virtual",
+          "endless",
+          "load more",
+          "list",
+          "scrolling",
+          "infinite",
+          "virtualized",
+          "grid",
+          "feed",
+          "chat"
+        ],
+        "date": "2022-06-19T14:42:09.877Z",
+        "links": {
+          "npm": "https://www.npmjs.com/package/react-virtuoso",
+          "homepage": "https://virtuoso.dev/",
+          "repository": "https://github.com/petyosi/react-virtuoso",
+          "bugs": "https://github.com/petyosi/react-virtuoso/issues"
+        },
+        "author": { "name": "Petyo Ivanov" },
+        "publisher": { "username": "petyosi", "email": "underlog@gmail.com" },
+        "maintainers": [
+          { "username": "petyosi", "email": "underlog@gmail.com" }
+        ]
+      },
+      "score": {
+        "final": 0.7701396703630828,
+        "detail": {
+          "quality": 0.9357368242618542,
+          "popularity": 0.40291335178572507,
+          "maintenance": 0.9954255713129223
+        }
+      },
+      "searchScore": 0.7697904
+    },
+    {
+      "package": {
+        "name": "@ag-grid-enterprise/set-filter",
+        "scope": "ag-grid-enterprise",
+        "version": "27.3.0",
+        "description": "Advanced Data Grid / Data Table supporting Javascript / Typescript / React / Angular / Vue",
+        "keywords": [
+          "web-components",
+          "grid",
+          "data",
+          "table",
+          "angular",
+          "angular-component",
+          "react",
+          "react-component",
+          "reactjs",
+          "vue",
+          "vuejs"
+        ],
+        "date": "2022-05-17T07:20:34.287Z",
+        "links": {
+          "npm": "https://www.npmjs.com/package/%40ag-grid-enterprise%2Fset-filter",
+          "homepage": "https://www.ag-grid.com/",
+          "repository": "https://github.com/ag-grid/ag-grid",
+          "bugs": "https://github.com/ag-grid/ag-grid/issues"
+        },
+        "author": {
+          "name": "Sean Landsman",
+          "email": "sean@thelandsmans.com",
+          "username": "seanlandsman"
+        },
+        "publisher": {
+          "username": "seanlandsman",
+          "email": "sean@thelandsmans.com"
+        },
+        "maintainers": [
+          { "username": "ceolter", "email": "niall.crosby@gmail.com" },
+          { "username": "seanlandsman", "email": "sean@thelandsmans.com" },
+          {
+            "username": "rmc.software",
+            "email": "rmc.software.consultancy@gmail.com"
+          }
+        ]
+      },
+      "score": {
+        "final": 0.762481736087038,
+        "detail": {
+          "quality": 0.8851576921125721,
+          "popularity": 0.4241597019594818,
+          "maintenance": 0.9956529507641365
+        }
+      },
+      "searchScore": 0.7115208
+    },
+    {
+      "package": {
+        "name": "@ag-grid-community/infinite-row-model",
+        "scope": "ag-grid-community",
+        "version": "27.3.0",
+        "description": "Advanced Data Grid / Data Table supporting Javascript / Typescript / React / Angular / Vue",
+        "keywords": [
+          "web-components",
+          "grid",
+          "data",
+          "table",
+          "angular",
+          "angular-component",
+          "react",
+          "react-component",
+          "reactjs",
+          "vue",
+          "vuejs"
+        ],
+        "date": "2022-05-17T07:18:53.241Z",
+        "links": {
+          "npm": "https://www.npmjs.com/package/%40ag-grid-community%2Finfinite-row-model",
+          "homepage": "https://www.ag-grid.com/",
+          "repository": "https://github.com/ag-grid/ag-grid",
+          "bugs": "https://github.com/ag-grid/ag-grid/issues"
+        },
+        "author": {
+          "name": "Sean Landsman",
+          "email": "sean@thelandsmans.com",
+          "username": "seanlandsman"
+        },
+        "publisher": {
+          "username": "seanlandsman",
+          "email": "sean@thelandsmans.com"
+        },
+        "maintainers": [
+          { "username": "ceolter", "email": "niall.crosby@gmail.com" },
+          { "username": "seanlandsman", "email": "sean@thelandsmans.com" },
+          {
+            "username": "rmc.software",
+            "email": "rmc.software.consultancy@gmail.com"
+          }
+        ]
+      },
+      "score": {
+        "final": 0.7609880109704847,
+        "detail": {
+          "quality": 0.8780904360753379,
+          "popularity": 0.425966859756677,
+          "maintenance": 0.9956356549515615
+        }
+      },
+      "searchScore": 0.69771737
+    },
+    {
+      "package": {
+        "name": "react-window",
+        "scope": "unscoped",
+        "version": "1.8.7",
+        "description": "React components for efficiently rendering large, scrollable lists and tabular data",
+        "keywords": [
+          "react",
+          "reactjs",
+          "virtual",
+          "window",
+          "windowed",
+          "list",
+          "scrolling",
+          "infinite",
+          "virtualized",
+          "table",
+          "grid",
+          "spreadsheet"
+        ],
+        "date": "2022-04-23T14:22:43.250Z",
+        "links": {
+          "npm": "https://www.npmjs.com/package/react-window",
+          "homepage": "http://react-window.now.sh/",
+          "repository": "https://github.com/bvaughn/react-window",
+          "bugs": "https://github.com/bvaughn/react-window/issues"
+        },
+        "author": {
+          "name": "Brian Vaughn",
+          "email": "brian.david.vaughn@gmail.com",
+          "url": "https://github.com/bvaughn/"
+        },
+        "publisher": {
+          "username": "brianvaughn",
+          "email": "briandavidvaughn@gmail.com"
+        },
+        "maintainers": [
+          { "username": "brianvaughn", "email": "briandavidvaughn@gmail.com" },
+          { "username": "mjackson", "email": "npm@mjackson.me" }
+        ]
+      },
+      "score": {
+        "final": 0.7191781278776386,
+        "detail": {
+          "quality": 0.9372693112538775,
+          "popularity": 0.6046811468515499,
+          "maintenance": 0.646739808866951
+        }
+      },
+      "searchScore": 0.67704374
+    },
+    {
+      "package": {
+        "name": "@formatjs/cli",
+        "scope": "formatjs",
+        "version": "5.0.2",
+        "description": "A CLI for formatjs.",
+        "keywords": [
+          "intl",
+          "i18n",
+          "internationalization",
+          "locale",
+          "localization",
+          "globalization",
+          "react",
+          "react-intl",
+          "reactjs",
+          "format",
+          "formatjs",
+          "formatting",
+          "translate",
+          "translation",
+          "cli"
+        ],
+        "date": "2022-06-06T02:50:09.604Z",
+        "links": {
+          "npm": "https://www.npmjs.com/package/%40formatjs%2Fcli",
+          "homepage": "https://github.com/formatjs/formatjs",
+          "repository": "https://github.com/formatjs/formatjs",
+          "bugs": "https://github.com/formatjs/formatjs/issues"
+        },
+        "author": { "name": "Linjie Ding", "email": "linjie@airtable.com" },
+        "publisher": {
+          "username": "longlho",
+          "email": "holevietlong@gmail.com"
+        },
+        "maintainers": [
+          { "username": "longlho", "email": "holevietlong@gmail.com" },
+          { "username": "redonkulus", "email": "seth@bertalotto.net" },
+          { "username": "pyrocat", "email": "dinglinjie+npm@gmail.com" }
+        ]
+      },
+      "score": {
+        "final": 0.7502534010463142,
+        "detail": {
+          "quality": 0.7854061275453257,
+          "popularity": 0.4742112006612858,
+          "maintenance": 0.9961646930036185
+        }
+      },
+      "searchScore": 0.6180247
+    }
+  ]
+}
